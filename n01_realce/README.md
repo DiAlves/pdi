@@ -1,7 +1,7 @@
 Os códigos estão utilizando argumentos de linha de comando.
 
 Para ver os argumentos necessarios para a executação do programa, pode-se executar o seguinte código no seu terminal:
-**** python nomeDoArquivo.py --help ****
+* python nomeDoArquivo.py --help 
 
 Exemplo: 
 
