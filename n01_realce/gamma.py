@@ -2,7 +2,7 @@ import cv2
 import argparse
 from matplotlib import pyplot as plt
 
-# Receber o diretorio da imagem e o valor do gamma
+# Receber o diretorio da imagem e o valor do gamma (gamma > 1 clarear, gamma < 1 escurecer)
 ap = argparse.ArgumentParser()
 ap.add_argument("-i", "--image", required=True, help="caminho para a image")
 ap.add_argument("-g", "--gamma", required=True,	help="valor do gamma")
