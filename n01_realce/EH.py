@@ -38,7 +38,7 @@ for i in range (0, img.shape[0]):
 # plotagem dos histogramas
 plt.hist(imgR.ravel(),256,[0,256])
 plt.hist(img.ravel(),256,[0,256])
-plt.title('Histograma_1')
+plt.title('Histograma')
 plt.show()
 
 #salvar imagem

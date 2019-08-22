@@ -27,7 +27,7 @@ imgN = imgN.astype('uint8')
 #plotar histograma
 plt.hist(imgN.ravel(),256,[0,256])
 plt.hist(img.ravel(),256,[0,256])
-plt.title('Histograma_1')
+plt.title('Histograma')
 plt.show()
 
 #salvar imagem
