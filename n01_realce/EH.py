@@ -3,7 +3,7 @@ import argparse
 import numpy as np
 from matplotlib import pyplot as plt
 
-# Receber o diretorio da imagem e o valor do gamma
+# Receber o diretorio da imagem 
 ap = argparse.ArgumentParser()
 ap.add_argument("-i", "--image", required=True, help="caminho para a image")
 args = vars(ap.parse_args())
