@@ -1,0 +1,13 @@
+Método de Huffman
+
+imagem1:
+	Compressão:  56.91901694985736
+	Redundancia Relativa dos dados:  0.9824311793564364
+
+Imagem2: 
+	Compressão:  34.22592513434294
+	Redundancia Relativa dos dados:  0.970782382183248
+
+Imagem3: 
+	Compressão:  8.426132326820602
+	Redundancia Relativa dos dados:  0.8813215884567853
